@@ -16,11 +16,6 @@ import os
 
 # SECRET_KEY = os.getenv('SECRET')
 
-SECRET_KEY = "kt2%$202i4gmtv)%51%jwsmqa=p)p6pu8t!(-(py47uiby!=)1"
-
-print(SECRET_KEY)
-
-
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
